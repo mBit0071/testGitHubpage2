@@ -1,6 +1,6 @@
 ---
 title: Dreams and Disasters
-layout: postLayout
+layout: post
 ---
 
 # {{ page.title }}
@@ -35,4 +35,4 @@ This will include all kinds of text, **Bold**, *italics*. and
 
 Finally links
 
-[Dreams and Disasters](../testGitHubpage2/posts/DreamDisasters/DreamsDisastersLP.md)
+[Dreams and Disasters](/DreamDisasters/DreamsDisastersLP.md)
