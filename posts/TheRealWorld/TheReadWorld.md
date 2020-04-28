@@ -35,4 +35,4 @@ This will include all kinds of text, **Bold**, *italics*. and
 
 Finally links
 
-[Dreams and Disasters](/testGitHubPage2/posts/DreamDisasters/DreamsDisastersLP.html)
+[Dreams and Disasters](/posts/DreamDisasters/DreamsDisastersLP.md)
