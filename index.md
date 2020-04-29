@@ -11,5 +11,11 @@ Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/).
 Plain text format allows you to focus on your **content**.
 
 ## Links
-1. [Dreams and Disasters](/posts/DreamDisasters/DreamsDisastersLP.md)
-1. [The Real World](/posts/TheRealWorld/TheReadWorld.md)
+
+### Page links
+
+{% for ps in site.posts %}
+1. [{{ps.title}}]({{site.baseurl}}{{ps.url}})
+{% endfor %}
+
+

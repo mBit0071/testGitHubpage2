@@ -1,6 +1,6 @@
 ---
 title: The real world
-layout: post
+layout: postLayout
 ---
 
 # {{ page.title }}
