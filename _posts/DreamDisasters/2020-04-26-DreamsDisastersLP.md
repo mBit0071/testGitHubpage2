@@ -9,4 +9,4 @@ categories: [DD]
 
 >Long paragraph about dreams and disasters.
 
-[Home](/)
+[Home](/{{site.baseurl}})

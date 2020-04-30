@@ -9,6 +9,7 @@ run in the directory:
 ### Things to keep in mind
 1. Jekyll is very specific with it's names. Ex: "YYYY-MM-DD-Title".
 1. Posts are picked automatically. If the posts do not have date in front of them, they would not be picked. This can be used as drafts.
+1. Links are tricky. Always include {{site.baseurl}}
 
 ### Todo:
 - [x] fixed links between pages

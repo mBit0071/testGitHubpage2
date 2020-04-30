@@ -33,4 +33,4 @@ This will include all kinds of text, **Bold**, *italics*. and
 
 Finally links
 
-[Dreams and Disasters]({%  post_url 2020-04-26-DreamsDisastersLP %})
+[Dreams and Disasters]({{site.baseurl}}{%  post_url 2020-04-26-DreamsDisastersLP %})
