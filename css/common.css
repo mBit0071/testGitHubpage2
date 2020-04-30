@@ -1,9 +1,22 @@
 html {
-	margin: 0;
-	padding: 0;
+	margin: 1px;
+	padding: 10px;
 	font: normal 90%/1.4 Georgia,serif; 
 }
 
 body {
-	  background-color: #DADF64;
+ background-color: #d8f4e2;
+}
+
+.postContent {
+  background-color: #f4e2db;
+	width: auto;
+  border: 15px solid #ba95cc;
+  padding: 30px;
+  margin: 20px;
+  font: normal 100%/1.0 Avantgarde, sans-serif;
+}
+
+.footerPara {
+	text-align: center;	
 }

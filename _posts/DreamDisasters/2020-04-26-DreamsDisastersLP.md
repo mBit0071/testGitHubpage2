@@ -1,13 +1,12 @@
 ---
 title: Dreams and Disasters
-layout: postLayout
-
+layout: post
+categories: [DD]
 ---
 
 # {{ page.title }}
 
 
-## Dreams and Disasters Landing Page
-
-
 >Long paragraph about dreams and disasters.
+
+[Home](/)

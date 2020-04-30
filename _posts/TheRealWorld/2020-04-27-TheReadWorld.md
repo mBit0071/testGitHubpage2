@@ -1,12 +1,10 @@
 ---
 title: The real world
-layout: postLayout
+layout: post
 ---
 
 # {{ page.title }}
 
-
-#### The real world page
 
 This will include all kinds of text, **Bold**, *italics*. and
 
@@ -35,4 +33,4 @@ This will include all kinds of text, **Bold**, *italics*. and
 
 Finally links
 
-[Dreams and Disasters]({{site.baseurl}}/_posts/DreamDisasters/DreamsDisastersLP.html)
+[Dreams and Disasters]({%  post_url 2020-04-26-DreamsDisastersLP %})
