@@ -14,8 +14,8 @@ Plain text format allows you to focus on your **content**.
 
 ### Page links
 
-{% for ps in site.posts %}
-1. [{{ps.title}}]({{site.baseurl}}{{ps.url}})
+{% for ps in site.categories %}
+1. [{{ps | first | strip_html}}]({{site.baseurl}}{{ps | first | strip_html}})
 {% endfor %}
 
 

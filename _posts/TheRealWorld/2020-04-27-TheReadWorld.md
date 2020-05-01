@@ -1,6 +1,7 @@
 ---
 title: The real world
 layout: post
+category: [TRW]
 ---
 
 # {{ page.title }}
